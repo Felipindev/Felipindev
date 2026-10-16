@@ -27,9 +27,9 @@ Estudante/desenvolvedor(a) apaixonado(a) por **eletrônica, web e jogos**. Gosto
 | [🌐 projeto-WebControleESP](https://github.com/Felipindev/projeto-WebControleESP) | Controle de um ESP pela web, direto do navegador |
 | [🎮 Jogos-JavaScript](https://github.com/Felipindev/Jogos-JavaScript) | Coleção de jogos feitos com JavaScript puro |
 | [🧠 MemoryGame](https://github.com/Felipindev/MemoryGame) | Jogo da memória com cartas |
-| [💬 Confessa-](https://github.com/Felipindev/Confessai) | Jogo "Quem é mais provável de..." com amigos de forma local |
+| [💬 Confessaí](https://github.com/Felipindev/Confessai) | Jogo "Quem é mais provável de..." com amigos de forma local |
 
 ## 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Felipindev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipindev&layout=compact&theme=tokyonight)
