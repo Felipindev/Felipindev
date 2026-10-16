@@ -14,6 +14,10 @@ Estudante/desenvolvedor(a) apaixonado(a) por **eletrônica, web e jogos**. Gosto
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Banco de dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### Hardware e ferramentas
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -24,7 +28,7 @@ Estudante/desenvolvedor(a) apaixonado(a) por **eletrônica, web e jogos**. Gosto
 
 | Projeto | Descrição |
 |---|---|
-| [🌐 projeto-WebControleESP](https://github.com/Felipindev/projeto-WebControleESP) | Controle de um ESP pela web, direto do navegador |
+| [🌐 projeto-WebControleESP](https://github.com/Felipindev/projeto-WebControleESP) | Controle de um ESP pela web, direto do navegador  [🔗 Ver site](https://web-controle.vercel.app) |
 | [🎮 Jogos-JavaScript](https://github.com/Felipindev/Jogos-JavaScript) | Coleção de jogos feitos com JavaScript puro |
 | [🧠 MemoryGame](https://github.com/Felipindev/MemoryGame) | Jogo da memória com cartas |
 | [💬 Confessaí](https://github.com/Felipindev/Confessai) | Jogo "Quem é mais provável de..." com amigos de forma local |
